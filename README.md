@@ -1,2 +1,2 @@
-#Demo
-some description of my first project with git
+# Demo
+some description of my first project with git !
